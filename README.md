@@ -38,7 +38,13 @@ I am a third-year Software Engineering student focused on backend development wi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-**Also experienced with:** Java, Python, scikit-learn, Hugging Face, WPF
+**Programming Foundations & Embedded**
+
+![Core Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+
+**Also experienced with:** Python, scikit-learn, Hugging Face, WPF
 
 ## AI-Assisted Development
 
